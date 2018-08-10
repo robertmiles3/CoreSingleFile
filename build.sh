@@ -1,0 +1,1 @@
+dotnet publish --configuration Release --runtime osx-x64 --output native
